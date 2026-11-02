@@ -1,38 +1,34 @@
-## Hello, I’m Krishna 👋
+## Krishna Prakasan
 
-I’m a software developer passionate about building clean, useful, and impactful digital experiences.
+Software Developer
 
-- 💻 I enjoy working with modern web technologies, APIs, and product engineering
-- 🚀 I’m constantly learning and shipping ideas into real-world projects
-- 🤝 Open to collaborations, freelance work, and meaningful opportunities
-- 🌱 Currently exploring backend systems, cloud tools, and AI-powered workflows
-- 📫 Reach out: connect with me and let’s build something great
+I build practical, scalable, and user-focused software with a strong emphasis on clean implementation, maintainability, and real-world impact.
 
-### What I do
+- 💼 Interested in product engineering, full-stack development, and problem-solving
+- 🚀 Focused on building reliable systems and polished user experiences
+- 🤝 Open to collaborations, internships, and professional opportunities
+- 🌱 Continuously learning modern web technologies, backend architecture, and AI-enabled workflows
 
-I design and build software that is practical, scalable, and user-focused. My work spans product thinking, development, debugging, and iterative improvement.
-
-### Tech Stack
+### Core Skills
 
 - JavaScript / TypeScript
 - React / Node.js
 - Python
+- REST APIs and database integration
 - Git / GitHub
-- Databases and APIs
 - Cloud and DevOps fundamentals
 
-### Let’s connect
+### What I’m Working On
 
-- GitHub: github.com/krishnendhup
-- LinkedIn: [Your LinkedIn]
-- Email: [your.email@example.com]
+Exploring modern application development, backend systems, and tools that improve delivery, performance, and user value.
 
-### Highlights
+### Open to
 
-- Building projects that solve real problems
-- Creating user-friendly interfaces and reliable backend logic
-- Turning ideas into polished, working software
+Software engineering opportunities, meaningful collaborations, and product-driven projects.
 
-> “I build with curiosity, care, and a focus on real value.”
+### Connect
 
-![Profile views](https://komarev.com/ghpvc/?username=krishnendhup)
+- GitHub: https://github.com/krishnendhup
+- Email: available upon request
+
+> Building software that is useful, dependable, and thoughtfully designed.
